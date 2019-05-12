@@ -1,0 +1,10 @@
+# pycharm
+.idea
+venv
+
+# vscode
+.env
+.vscode
+
+# code
+__pycache__
