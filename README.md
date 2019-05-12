@@ -73,9 +73,9 @@ Python Flask订餐系统
     - templates：模板文件
 
 - 根目录
-    - application.py：对app和db进行封装
-    - manager.py：入口文件
-    - www\.py：蓝图注册
+    - application：对app和db进行封装
+    - manager：入口文件
+    - www：蓝图注册
 
 
 #### ueditor编辑器
