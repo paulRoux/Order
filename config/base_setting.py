@@ -38,7 +38,7 @@ STATUS_MAPPING = {
 }
 
 MINA_APP = {
-    'appid': 'wx02ee480119ea743c',
+    'appid': 'xxxxxxxxxxxxxx换自己的',
     'app_secret': '008c006e5d961eef7626b980ad5b043b',
     # 'paykey': 'xxxxxxxxxxxxxx换自己的',
     # 'mch_id': 'xxxxxxxxxxxx换自己的',
